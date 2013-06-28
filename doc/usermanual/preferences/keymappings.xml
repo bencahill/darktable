@@ -21,6 +21,7 @@
 <row><entry>&lt;darktable&gt;/views/lighttable/color green</entry> <entry>F3</entry></row>
 <row><entry>&lt;darktable&gt;/views/lighttable/color blue</entry> <entry>F4</entry></row>
 <row><entry>&lt;darktable&gt;/views/lighttable/color purple</entry> <entry>F5</entry></row>
+<row><entry>&lt;darktable&gt;/views/lighttable/expose status</entry> <entry>x</entry></row>
 <row><entry>&lt;darktable&gt;/views/lighttable/navigate down</entry> <entry>&lt;Shift&gt;g</entry></row>
 <row><entry>&lt;darktable&gt;/views/lighttable/navigate page down</entry> <entry>Page_Down</entry></row>
 <row><entry>&lt;darktable&gt;/views/lighttable/navigate page up</entry> <entry>Page_Up</entry></row>
